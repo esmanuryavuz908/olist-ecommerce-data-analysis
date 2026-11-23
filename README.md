@@ -86,7 +86,7 @@ olist-ecommerce-data-analysis/
 
 1. **Repoyu klonlayın:**
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/olist-ecommerce-data-analysis.git](https://github.com/KULLANICI_ADIN/olist-ecommerce-data-analysis.git)
+   git clone [https://github.com/esmanuryavuz908/olist-ecommerce-data-analysis.git](https://github.com/esmanuryavuz908/olist-ecommerce-data-analysis.git)
    cd olist-ecommerce-data-analysis
    ```
 
